@@ -5,3 +5,7 @@ function add(let a,let b){
 function mul(let a,let b){
    return a*b;    
 }
+
+function div(let a,let b){
+   return a/b;    
+}
