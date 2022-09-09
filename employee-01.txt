@@ -1,3 +1,7 @@
 function add(let a,let b){
    return a+b;    
 }
+
+function mul(let a,let b){
+   return a*b;    
+}
